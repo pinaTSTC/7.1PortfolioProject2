@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DPinaPyProject5_5", "DPinaPyProject5_5.pyproj", "{EAF3AD36-F815-487C-9D9E-A3E29216A2BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF3AD36-F815-487C-9D9E-A3E29216A2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF3AD36-F815-487C-9D9E-A3E29216A2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC25B99-0348-4289-A39C-9CA248E9C936}
+	EndGlobalSection
+EndGlobal
